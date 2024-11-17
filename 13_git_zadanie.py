@@ -1,2 +1,2 @@
 print('costam')
-print('costam2')
+print('coś nowego')
